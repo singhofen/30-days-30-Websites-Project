@@ -1,0 +1,62 @@
+/* Container holding the image and the text */
+
+body{
+   background-color: rgb(220, 190, 195);
+}
+
+.img-fluid {
+   margin-bottom: 8%;
+   
+}
+
+p {
+   margin-top: 20px;
+   margin-bottom: 50px;
+}
+/*Text over image styles.css*/
+
+.carousel-caption {
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+ }
+ 
+/*.bg-2  {
+  background-color:blue;
+}
+*/
+h1 {
+  font-family: 'Great Vibes', cursive;  
+  font-size: 45px;
+}
+
+h3 {
+  font-family: 'Great Vibes', cursive; 
+}
+p{
+  font-family: 'Great Vibes', cursive;
+  font-size: 20px;
+}
+a {
+  font-family: 'Great Vibes', cursive;
+}
+ h1 {
+   font-weight:600; 
+ }
+ h3 {
+   font-weight: 600;
+ }
+
+.img{
+   border-radius: 12px;
+ }
+ .img-op{
+   opacity: 0.7;
+ }
+ .btn-primary{
+  font-family: 'Great Vibes', cursive;
+ }
+ #emailHelp{
+  font-family: 'Great Vibes', cursive;
+  font-size: 22px;
+ }

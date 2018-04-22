@@ -1,0 +1,45 @@
+/*css styles for portfolio 30 days 30 websites*/
+
+body  {
+   background-color: rgb(214, 209, 209);
+}
+
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 15%;
+   
+ }
+
+ .footer {
+    text-align: center;
+ }
+
+.navbar {
+   background-color: rgb(214, 209, 209) !important;
+}
+
+.navbar .navbar-brand {
+   color: blue;
+   font-weight: 100;
+}
+
+.navbar .navbar-brand{
+   color: blue;
+}
+
+.navbar .navbar-nav li a {
+   color: blue !important;
+}
+
+.navbar .navbar-nav li a:hover {
+   color: white !important;
+}
+.navbar-toggler  {
+   background-color: gray;
+}
+
+.navbar-toggler:hover  {
+   background-color: blue;
+}
