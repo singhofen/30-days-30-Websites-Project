@@ -1,6 +1,7 @@
 # 30-days-30-Websites-Project
+# Below are snippets of all the projects contained in the repo.
 This is an Ongoing project to build 30 websites in 30 days [group challenge.] Various Websites involoving: Industrial/Businesses/Genres/Software/Restuaraunt/Motor Vehicles/Invite Templates/ ect. Navigate repo. to veiw projects. 
-Below are snippets of all the projects contained in the repo. All projects are responsive. 
+ All projects are responsive. 
 
 ![image](https://user-images.githubusercontent.com/23155302/40273335-7e4edaf4-5b8c-11e8-893c-fb686d5e87cc.png)
 
