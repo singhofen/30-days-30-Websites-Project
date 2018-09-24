@@ -1,5 +1,13 @@
 # 30-days-30-Websites-Project
 # Below are snippets of all the projects contained in the repo.
+# Links to projects 
+https://codepen.io/csinghofen/pen/RMyjQE?editors=1100 <br>
+
+https://codepen.io/csinghofen/pen/BrGymv <br>
+
+https://codepen.io/csinghofen/pen/PRxyWr <br>
+
+
 This is an Ongoing project to build 30 websites in 30 days [group challenge.] Various Websites involoving: Industrial/Businesses/Genres/Software/Restuaraunt/Motor Vehicles/Invite Templates/ ect. Navigate repo. to veiw projects. 
  All projects are responsive. 
 
